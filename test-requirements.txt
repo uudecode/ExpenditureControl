@@ -1,0 +1,3 @@
+testrepository
+os-testr
+discover
